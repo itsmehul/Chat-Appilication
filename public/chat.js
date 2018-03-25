@@ -1,5 +1,5 @@
 //Make connection
-const socket = io.connect('http://localhost:4000');
+const socket = io.connect('https://itschatapp.herokuapp.com:4000/');
 
 //Query DOM
 const message = document.getElementById('message');
