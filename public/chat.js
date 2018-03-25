@@ -1,9 +1,5 @@
 //Make connection
-<<<<<<< HEAD
 const socket = io.connect();
-=======
-const socket = io.connect();
->>>>>>> e038661a80e4b997175eb0c3c9cef706623e6e6d
 
 //Query DOM
 const message = document.getElementById('message');
